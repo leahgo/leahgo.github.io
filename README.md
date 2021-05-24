@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white"/>
     <h1>📚&nbsp;Tech Blog</h1>
     <a href="https://velog.io/@theleah"><img src="https://img.shields.io/badge/Velog@theleah-11B48A?logoColor=white"/></a>
-    <h1>💻&nbsp;Toy Projects</h1>
+    <h1>🎢&nbsp;Toy Projects</h1>
     <h4>✔ You will need the extension plugin of CORS changer</h4>
     <a href="https://leahgo.github.io/CovidDashboardReact" title="CovidDashboard-react"><img src="https://img.shields.io/badge/Covid_DashBoard_(React)-51C4D3?logo=React&labelColor=gray"/></a>&nbsp;
       <a href="https://leahgo.github.io/covid-dashboard-vue" title="CovidDashboard-Vue"><img src="https://img.shields.io/badge/Covid_DashBoard_(Vue)-4FC08D?logo=Vue-dot-js&labelColor=gray"/></a>
