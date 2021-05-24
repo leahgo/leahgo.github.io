@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue-4FC08D?logo=Vue-dot-js&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySql-4479A1?logo=MySql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
     <br />
@@ -35,6 +35,9 @@ Here are some ideas to get you started:
     <h1>📚&nbsp;Tech Blog</h1>
     <a href="https://velog.io/@theleah"><img src="https://img.shields.io/badge/Velog@theleah-11B48A?logoColor=white"/></a>
     <h1>💻&nbsp;Toy Projects</h1>
-    <a href="https://leahgo.github.io/CovidDashboardReact" title="CovidDashboard-react"><img src="https://img.shields.io/badge/Covid_DashBoard_(React)-51C4D3?logo=React&labelColor=gray"/></a>
+    <a href="https://leahgo.github.io/CovidDashboardReact" title="CovidDashboard-react"><img src="https://img.shields.io/badge/Covid_DashBoard_(React)-51C4D3?logo=React&labelColor=gray"/>
+      &nbsp;&nbsp;
+      <a href="https://leahgo.github.io/covid-dashboard-vue" title="CovidDashboard-Vue"><img src="https://img.shields.io/badge/Covid_DashBoard_(Vue)-4FC08D?logo=Vue-dot-js&labelColor=gray"/>
   </span>
 </div>
+
