@@ -35,10 +35,8 @@ Here are some ideas to get you started:
     <h1>📚&nbsp;Tech Blog</h1>
     <a href="https://velog.io/@theleah"><img src="https://img.shields.io/badge/Velog@theleah-11B48A?logoColor=white"/></a>
     <h1>💻&nbsp;Toy Projects</h1>
-    <a href="https://leahgo.github.io/CovidDashboardReact" title="CovidDashboard-react"><img src="https://img.shields.io/badge/Covid_DashBoard_(React)-51C4D3?logo=React&labelColor=gray"/>
-      &nbsp;
-      <a href="https://leahgo.github.io/covid-dashboard-vue" title="CovidDashboard-Vue"><img src="https://img.shields.io/badge/Covid_DashBoard_(Vue)-4FC08D?logo=Vue-dot-js&labelColor=gray"/>
-      </a>
+    <a href="https://leahgo.github.io/CovidDashboardReact" title="CovidDashboard-react"><img src="https://img.shields.io/badge/Covid_DashBoard_(React)-51C4D3?logo=React&labelColor=gray"/></a>&nbsp;
+      <a href="https://leahgo.github.io/covid-dashboard-vue" title="CovidDashboard-Vue"><img src="https://img.shields.io/badge/Covid_DashBoard_(Vue)-4FC08D?logo=Vue-dot-js&labelColor=gray"/></a>
   </span>
 </div>
 
