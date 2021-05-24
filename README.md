@@ -38,6 +38,7 @@ Here are some ideas to get you started:
     <a href="https://leahgo.github.io/CovidDashboardReact" title="CovidDashboard-react"><img src="https://img.shields.io/badge/Covid_DashBoard_(React)-51C4D3?logo=React&labelColor=gray"/>
       &nbsp;
       <a href="https://leahgo.github.io/covid-dashboard-vue" title="CovidDashboard-Vue"><img src="https://img.shields.io/badge/Covid_DashBoard_(Vue)-4FC08D?logo=Vue-dot-js&labelColor=gray"/>
+      </a>
   </span>
 </div>
 
