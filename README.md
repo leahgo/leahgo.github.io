@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
     <br />
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%23-239120?logo=C%23&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?logo=C-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
     <br/>  
